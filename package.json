@@ -1,0 +1,23 @@
+{
+  "name": "webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Small boilerplate project structure for writing modern JavaScript code with modules and bundling it with webpack for production.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ignasJoni/webpack-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "Ignas Jonikavicius",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.11",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.19.0",
+    "webpack-cli": "^4.4.0"
+  }
+}
